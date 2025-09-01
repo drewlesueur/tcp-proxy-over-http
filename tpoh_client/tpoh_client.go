@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "app/localprinter/cc"
+	. "github.com/drewlesueur/cc"
 	"bytes"
 	"context"
 	"encoding/base64"
